@@ -11,6 +11,7 @@ calculate function (dictionary):
   - create a dataframe with the values
   - return the dataframe
 
+Block Of Code:
 - create a dictionary which contains points for assignments and weights if applicable
 - call the calculate function(dictionary)
 - print the dataframe that was returned
